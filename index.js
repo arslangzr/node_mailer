@@ -17,7 +17,7 @@ async function main() {
         from: '"Muhammad Arsalan" <arslan@example.com>', // sender address
         to: "user1@example.com, user2@example.com", // list of receivers
         subject: "Hello ✔", // Subject line
-        text: "Hello world plain texttext", // plain text body
+        text: "Hello world plain text", // plain text body
         html: "<b>Hello world email html</b>", // html body
     });
 
